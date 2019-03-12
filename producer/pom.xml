@@ -5,8 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mpojeda84.mapr.scala</groupId>
-    <artifactId>car-data-producer</artifactId>
+    <artifactId>conected-driver-producer</artifactId>
     <version>2.0-SNAPSHOT</version>
+    <name>conected-driver-producer</name>
+    <description>Multithreaded Java application to send simulate cars streaming data to MapR-ES</description>
 
     <repositories>
         <repository>
